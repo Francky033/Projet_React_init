@@ -12,10 +12,3 @@ code {
     monospace;
 }
 
-Footer{
-  background: red;
-  font-size: 2rem;
-  color: rgb(128, 159, 225);
-  display: flex;
-  justify-content: center;
-}

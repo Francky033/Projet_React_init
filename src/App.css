@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+Footer{
+  background: red;
+  font-size: 2rem;
+  color: rgb(128, 159, 225);
+  display: flex;
+  justify-content: center;
+}
+
+nav ul{
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+  flex-direction: row;
+  list-style: none;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+}
